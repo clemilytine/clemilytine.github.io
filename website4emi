@@ -1,0 +1,93 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Emily Rose - Software Engineer, Streamer</title>
+    <style>
+        body {
+            font-family: Arial, sans-serif;
+            background-color: #f0f8ff;
+            color: #333;
+            margin: 0;
+            padding: 0;
+            display: flex;
+            flex-direction: column;
+            align-items: center;
+        }
+        header {
+            width: 100%;
+            background-color: #ffb6c1;
+            padding: 20px 0;
+            text-align: center;
+        }
+        header h1 {
+            margin: 0;
+            color: #fff;
+            font-size: 2.5em;
+        }
+        header h2 {
+            margin: 0;
+            color: #fff;
+            font-size: 1.5em;
+        }
+        section {
+            width: 90%;
+            max-width: 800px;
+            margin: 20px 0;
+            text-align: center;
+        }
+        .gallery img {
+            width: 100%;
+            max-width: 200px;
+            margin: 10px;
+            border-radius: 10px;
+        }
+        .gallery {
+            display: flex;
+            flex-wrap: wrap;
+            justify-content: center;
+        }
+        footer {
+            width: 100%;
+            background-color: #ffb6c1;
+            padding: 10px 0;
+            text-align: center;
+            color: #fff;
+        }
+        a {
+            color: #ff69b4;
+            text-decoration: none;
+        }
+        a:hover {
+            text-decoration: underline;
+        }
+    </style>
+</head>
+<body>
+    <header>
+        <h1>Emily Rose</h1>
+        <h2>Software Engineer, Streamer</h2>
+    </header>
+    <section>
+        <h3>About Me</h3>
+        <p>Hi! I'm Emily Rose, a software engineer and part-time streamer. I love coding, playing games, and sharing my adventures with my followers. Welcome to my personal webpage!</p>
+    </section>
+    <section class="gallery">
+        <h3>Gallery</h3>
+        <img src="https://th.bing.com/th/id/R.585ce271ac2712036056607116e719ec?rik=0411oyDLwqBclg&pid=ImgRaw&r=0" alt="Cute cat 1">
+        <img src="https://s3.getstickerpack.com/storage/uploads/sticker-pack/cat-meme-1/sticker_10.webp?1de1efd063d5b9cdfb7d9d5bb663c655&d=200x200" alt="Cute cat 2">
+        <img src="https://i.pinimg.com/736x/c4/95/21/c49521463fe08339e0857f9da225058d.jpg" alt="Cute cat 3">
+        <img src="https://yt3.ggpht.com/ytc/AKedOLSvT7AfA6vhpQrYjE80J8nuvufSaWuZy0HN5BS2mg=s900-c-k-c0x00ffffff-no-rj" alt="Cute cat 4">
+        <img src="https://th.bing.com/th/id/R.48595279fee412e50ea88e965126b09f?rik=ksiB%2fpJpOBpa9Q&pid=ImgRaw&r=0" alt="Cute cat 5">
+        <img src="https://i.pinimg.com/736x/53/62/68/536268637e99af4347d1e606f47c9cfa.jpg" alt="Cute bunny 1">
+        <img src="https://pbs.twimg.com/profile_images/1450440507323207681/zMQTn7bI_400x400.jpg" alt="Cute bunny 2">
+        <img src="https://i.pinimg.com/736x/5f/7c/2c/5f7c2c16105350aae96dd227417e60f6.jpg" alt="Cute bunny 3">
+        <img src="https://th.bing.com/th/id/OIP.lu43eMWe0qEebdwVHf4m_gAAAA?pid=ImgDet&w=182&h=182&c=7&dpr=1.5" alt="Cute bunny 4">
+        <img src="https://th.bing.com/th/id/OIP.FjoDqVpsY17A0mDcFwKQjQHaHa?pid=ImgDet&w=182&h=182&c=7&dpr=1.5" alt="Cute bunny 5">
+    </section>
+    <footer>
+        <p>Contact me at: <a href="mailto:emilychambers2468@gmail.com">emilychambers2468@gmail.com</a></p>
+    </footer>
+</body>
+</html>
